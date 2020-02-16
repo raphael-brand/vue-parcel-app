@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Kalam&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Kalam', cursive;
+  background-color: lightblue;
+}
+
+body .quote {
+  padding: 5px;
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */
